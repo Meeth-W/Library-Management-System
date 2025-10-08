@@ -229,7 +229,7 @@ router.get('/version', (req, res) => {
     name: 'Library Management API',
     author: 'Library Management Team',
     license: 'MIT',
-    repository: 'https://github.com/your-org/library-management-api',
+    repository: 'https://github.com/Meeth-W/Library-Management-System',
     dependencies: {
       node: process.version,
       platform: process.platform
